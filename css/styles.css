@@ -297,7 +297,7 @@ h3.menu-item-title {
   }
   .navbar-brand p { /* Kosher cert */
     font-size: .6em;
-    margin-top: 12px;
+    margin-top: 8px;
   }
   .navbar-brand p img { /* Star-K */
     height: 20px;
@@ -373,6 +373,12 @@ h3.menu-item-title {
     line-height: 1em;
     padding-top: 5px;
     font-size: 6vw;
+  }
+  .navbar-brand p { /* Kosher cert */
+    color: #000;
+    text-transform: uppercase;
+    font-size: .7em;
+    margin-top: 10px;
   }
   /* End Header */
   
