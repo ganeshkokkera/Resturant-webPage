@@ -264,12 +264,8 @@ h3.menu-item-title {
   /* Home Page */
   .container .carousel-inner {
     background: url('../images/jumbotron_768.jpg') no-repeat;
-    height: 432px;
   }
-  .container .carousel {
-    height: 432px;
-  }
-  /* End Home Page */
+ End Home Page */
   .carousel-caption p {
     margin-bottom: 20px;
     font-size: 21px;
@@ -283,7 +279,7 @@ h3.menu-item-title {
   .container .carousel-inner {
     padding: 0;
   }
-  .container .carousel-inner {
+  .carousel-inner {
     background: url('../images/jumbotron_768.jpg') no-repeat;
   }
 
@@ -311,7 +307,7 @@ h3.menu-item-title {
     margin-right: 5px;
   }
   
-  .container .row {
+  .row {
     padding-top: 20px;
   }
 
