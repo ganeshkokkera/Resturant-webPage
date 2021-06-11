@@ -297,7 +297,7 @@ h3.menu-item-title {
   }
   .navbar-brand p { /* Kosher cert */
     font-size: .6em;
-    margin-top: 8px;
+    margin-top: 5px;
   }
   .navbar-brand p img { /* Star-K */
     height: 20px;
