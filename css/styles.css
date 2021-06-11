@@ -281,16 +281,12 @@ h3.menu-item-title {
 @media (max-width: 767px) {
   /* Header */
   .container .carousel-inner {
-    margin-top: 30px;
     padding: 0;
   }
   .container .carousel-inner {
     background: url('../images/jumbotron_768.jpg') no-repeat;
-    height: 332px;
   }
-  .container .carousel {
-    height: 332px;
-  }
+
   .navbar-brand {
     padding-top: 10px;
     height: 80px;
@@ -313,6 +309,9 @@ h3.menu-item-title {
   #collapsable-nav a span { /* Collapsed nav menu glyph */
     font-size: 1em;
     margin-right: 5px;
+  }
+  .container .row {
+    padding-top: 20px;
   }
 
   #call-btn > a {
